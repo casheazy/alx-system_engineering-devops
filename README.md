@@ -1,0 +1,1 @@
+script to print absolute pathname of working directory
