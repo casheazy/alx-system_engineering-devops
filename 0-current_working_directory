@@ -1,3 +1,0 @@
-#!/bin/bash
-#script to print absolute pathname of working directory
-echo "/root/alx-system_engineering-devops"
