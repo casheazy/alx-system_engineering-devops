@@ -1,0 +1,24 @@
+total 88
+drwxr-xr-x 2 root root 4096 Aug 30 16:54 .
+drwxr-xr-x 7 root root 4096 Aug 23 23:19 ..
+-rwxr--r-- 1 root root   33 Aug 23 02:08 0-hello_world
+-rwxr--r-- 1 root root   33 Aug 23 02:02 0-hello_world~
+-rwxr--r-- 1 root root   28 Aug 23 06:45 1-confused_smiley
+-rwxr--r-- 1 root root   27 Aug 23 05:43 1-confused_smiley~
+-rwxr--r-- 1 root root   33 Aug 23 09:54 2-hellofile
+-rw-r--r-- 1 root root   27 Aug 23 08:26 2-hellofile~
+-rwxr--r-- 1 root root   43 Aug 25 16:28 3-twofiles
+-rwxr--r-- 1 root root   34 Aug 23 10:13 3-twofiles~
+-rwxr--r-- 1 root root   36 Aug 23 10:52 4-lastlines
+-rwxr--r-- 1 root root   36 Aug 23 10:55 5-firstlines
+-rw-r--r-- 1 root root   34 Aug 23 10:55 5-firstlines~
+-rwxr--r-- 1 root root   41 Aug 23 13:34 6-third_line
+-rwxr--r-- 1 root root   47 Aug 23 11:47 6-third_line~
+-rwxr--r-- 1 root root   77 Aug 30 16:28 7-file
+-rwxr--r-- 1 root root   73 Aug 25 05:11 7-file~
+-rwxr-xr-x 1 root root   37 Aug 30 16:53 8-cwd_state
+-rwxr-xr-x 1 root root   35 Aug 30 16:52 8-cwd_state~
+-rw-r--r-- 1 root root  662 Aug 23 13:21 head
+-rw-r--r-- 1 root root    0 Aug 30 16:54 ls_cwd_content
+-rw-r--r-- 1 root root 1754 Aug 23 02:26 README.md
+-rw-r--r-- 1 root root  225 Aug 23 11:51 tail
