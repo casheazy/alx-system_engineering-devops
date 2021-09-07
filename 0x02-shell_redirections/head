@@ -1,12 +1,35 @@
-==> README.md <==
-Display all lines of the file /etc/ssh/sshd_config starting with a letter.
-Replace all characters A and c from input to Z and e respectively.
-Create a script that removes all letters c and C from input.
-==> README.md <==
-Display all lines of the file /etc/ssh/sshd_config starting with a letter.
-Replace all characters A and c from input to Z and e respectively.
-Create a script that removes all letters c and C from input.
-==> README.md <==
-Display all lines of the file /etc/ssh/sshd_config starting with a letter.
-Replace all characters A and c from input to Z and e respectively.
-Create a script that removes all letters c and C from input.
+total 124
+-rw-r--r-- 1 root root    0 Sep  7 03:31 head
+-rwxr-xr-x 1 root root   31 Sep  7 03:31 12-newest_files
+drwxr-xr-x 2 root root   62 Sep  3 04:09 js
+-rwxr-xr-x 1 root root   26 Sep  3 00:14 12-newest_files~
+-rwxr-xr-x 1 root root   31 Sep  2 23:25 11-directories
+drwxr-xr-x 3 root root   23 Sep  2 22:35 js_files
+-rwxr-xr-x 1 root root   33 Sep  1 18:35 0-hello_world
+-rwxr-xr-x 1 root root   33 Sep  1 18:35 0-hello_world~
+-rwxr-xr-x 1 root root   48 Sep  1 18:35 10-no_more_js
+-rwxr-xr-x 1 root root   46 Sep  1 18:35 10-no_more_js~
+-rwxr-xr-x 1 root root   34 Sep  1 18:35 #11-directories#
+-rw-r--r-- 1 root root   12 Sep  1 18:35 11-directories~
+-rwxr-xr-x 1 root root   28 Sep  1 18:35 1-confused_smiley
+-rwxr-xr-x 1 root root   27 Sep  1 18:35 1-confused_smiley~
+-rwxr-xr-x 1 root root   33 Sep  1 18:35 2-hellofile
+-rw-r--r-- 1 root root   27 Sep  1 18:35 2-hellofile~
+-rwxr-xr-x 1 root root   43 Sep  1 18:35 3-twofiles
+-rwxr-xr-x 1 root root   34 Sep  1 18:35 3-twofiles~
+-rwxr-xr-x 1 root root   36 Sep  1 18:35 4-lastlines
+-rwxr-xr-x 1 root root   36 Sep  1 18:35 5-firstlines
+-rw-r--r-- 1 root root   34 Sep  1 18:35 5-firstlines~
+-rwxr-xr-x 1 root root   41 Sep  1 18:35 6-third_line
+-rwxr-xr-x 1 root root   47 Sep  1 18:35 6-third_line~
+-rwxr-xr-x 1 root root   77 Sep  1 18:35 7-file
+-rwxr-xr-x 1 root root   73 Sep  1 18:35 7-file~
+-rwxr-xr-x 1 root root   37 Sep  1 18:35 8-cwd_state
+-rwxr-xr-x 1 root root   35 Sep  1 18:35 8-cwd_state~
+-rwxr-xr-x 1 root root   39 Sep  1 18:35 9-duplicate_last_line
+-rwxr-xr-x 1 root root   30 Sep  1 18:35 9-duplicate_last_line~
+-rw-r--r-- 1 root root   26 Sep  1 18:35 duplicate_last_line
+-rw-r--r-- 1 root root  839 Sep  1 18:35 iacta
+-rw-r--r-- 1 root root 1212 Sep  1 18:35 ls_cwd_content
+-rw-r--r-- 1 root root 1754 Sep  1 18:35 README.md
+-rw-r--r-- 1 root root  225 Sep  1 18:35 tail
