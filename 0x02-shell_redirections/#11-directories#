@@ -1,2 +1,0 @@
-esss#!/bin/bash
-ls -ad */ | wc -l
