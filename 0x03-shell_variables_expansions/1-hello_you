@@ -1,3 +1,2 @@
 #!/bin/bash
-whoami=user | echo "Hello user"
-
+whoami=user | echo "Hello user" 
