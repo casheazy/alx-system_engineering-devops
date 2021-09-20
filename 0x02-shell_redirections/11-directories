@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lRa | grep "drwx" | wc -l
+ls -lRa | grep -c "drwx" 
